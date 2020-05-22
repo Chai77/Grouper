@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Chai77/GrouperClient
+[submodule "server"]
+	path = server
+	url = https://github.com/Chai77/GrouperServer
